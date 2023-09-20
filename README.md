@@ -41,4 +41,4 @@ classDiagram
   User "1" *-- "N" News
 ```
 
-🔗 [Clique aqui para acessar]([https://anahaubert.github.io/SNAKE-GAME/](https://santanderbootcamp2023-prd.up.railway.app/swagger-ui/index.html)
+🔗 [Clique aqui para acessar]([https://santanderbootcamp2023-prd.up.railway.app/swagger-ui.html])
